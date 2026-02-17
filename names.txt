@@ -1,1 +1,2 @@
 boss, taffet, Taffet, Sophia
+employee, jeon4, Jeon, DongHyeon
