@@ -1,3 +1,4 @@
+role,NetID,LastName,FirstName
 boss, taffet, Taffet, Sophia
 employee, jeon4, Jeon, DongHyeon
 employee,mxu369,Xu,Manshu
